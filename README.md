@@ -17,4 +17,14 @@ start again and select the minimum amount of character options, similar to the c
 
  ## Links
 
+Link to github repository [Password-generator-repository](https://github.com/batemanz/password-generator.git)
+
+Link to deployed website [Password-generator](https://batemanz.github.io/password-generator/)
+
  ## Screenshots
+
+![deployed-app](/images/screen1.png)
+![password-length](/images/screen2.png)
+![character-selection](/images/screen3.png)
+![password-generated](/images/screen4.png)
+
