@@ -59,11 +59,18 @@ for(var i = 0; i < passwordLength; i++) {
 }
 
 }
+
+// an if else statement that says if you havent selected at least one character set to choose atleast one
+// i was unable to figure out how to keep it from displaying "undefined" in the textbox if you had not selected any characters
+if (passwordArray < 1) {
+  alert("Please choose Atleast 1 character.");
+} else {
+  //returns the result to the user
+  return result;
+}
 // console.log to test results
 console.log(result);
 
-//returns the result to the user
-return result;
 }
 
 
